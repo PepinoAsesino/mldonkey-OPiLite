@@ -1,4 +1,4 @@
-# orangepilite
+# mldonkey 3.1.7  333868a Nov 13, 2020     ( https://github.com/ygrek/mldonkey )
  Probado en Armbian 20.11.6 Focal with Linux 5.10.4-sunxi con una Orange Pi Lite. Se ejecuta como root (puedes crear otro usuario y modificarlo en el script, pero en mi caso no me interesa).
  
 ## Instruciones

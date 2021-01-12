@@ -1,0 +1,9 @@
+# MLDonkey configuration file
+# This file is loaded by /etc/init.d/mldonkey-server.
+# This file is managed using ucf(1).
+
+MLDONKEY_DIR=/root/.mldonkey
+MLDONKEY_USER=root
+MLDONKEY_GROUP=root
+MLDONKEY_UMASK=0
+LAUNCH_AT_STARTUP=true
